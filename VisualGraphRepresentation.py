@@ -1,5 +1,5 @@
 import numpy as np
-import networkx as nx
+import networkx as nx # used to represent graphs
 import matplotlib.pyplot as plt
 
 # Define adjacency matrix (example: 4-node undirected graph)
